@@ -1,0 +1,15 @@
+C:\Users\Elvin\source\repos\Test\TerminalApp\bin\Debug\TerminalApp.exe.config
+C:\Users\Elvin\source\repos\Test\TerminalApp\bin\Debug\TerminalApp.exe
+C:\Users\Elvin\source\repos\Test\TerminalApp\bin\Debug\TerminalApp.pdb
+C:\Users\Elvin\source\repos\Test\TerminalApp\obj\Debug\TerminalApp.csprojAssemblyReference.cache
+C:\Users\Elvin\source\repos\Test\TerminalApp\obj\Debug\TerminalApp.Controls.LoginRegisterUserControl.resources
+C:\Users\Elvin\source\repos\Test\TerminalApp\obj\Debug\TerminalApp.Properties.Resources.resources
+C:\Users\Elvin\source\repos\Test\TerminalApp\obj\Debug\TerminalApp.csproj.GenerateResource.cache
+C:\Users\Elvin\source\repos\Test\TerminalApp\obj\Debug\TerminalApp.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\source\repos\Test\TerminalApp\obj\Debug\TerminalApp.exe
+C:\Users\Elvin\source\repos\Test\TerminalApp\obj\Debug\TerminalApp.pdb
+C:\Users\Elvin\source\repos\Test\TerminalApp\obj\Debug\TerminalApp.Forms.DialogForm.resources
+C:\Users\Elvin\source\repos\Test\TerminalApp\obj\Debug\TerminalApp.Forms.LoginRegisterForm.resources
+C:\Users\Elvin\source\repos\Test\TerminalApp\obj\Debug\TerminalApp.Mainform.resources
+C:\Users\Elvin\source\repos\Test\TerminalApp\obj\Debug\TerminalApp.Forms.AccountConfig.resources
+C:\Users\Elvin\source\repos\Test\TerminalApp\obj\Debug\TerminalApp.Forms.Providers.resources
